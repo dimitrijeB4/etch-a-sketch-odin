@@ -1,0 +1,36 @@
+body{
+
+    text-align: center; 
+    margin: 30px;
+    padding: 32px;
+}
+div{
+    
+    color:yellow;
+   
+}
+.newGrid{
+
+    margin-bottom: 20px;
+    font-size: 32px;
+    border-radius: 10px;
+}
+.container{
+    width: 960px;
+    height: auto;
+    display:flex;
+    
+    justify-content: stretch;
+    margin: 0 auto;
+    border: 2px solid black;
+    
+    flex: 1;
+}
+
+.cell{
+    
+    box-sizing: border-box;
+    flex: 1;
+    
+   
+}
